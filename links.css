@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+h1{
+  text-align: center;
+  font-size: 60px;
+  color:#6666ff;
+  font-family: 'Megrim', cursive;
+}
+body{
+  background-color:#ccccff;
+}
+p{
+  font-family: "Avenir Next";
+  font-size: 20px;
+}
+
+.e01{
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  color:#b30059;
+  display: inline-block;
+  margin-right: 300px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
+.e02{
+  color:#b30059;
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
+.p01{
+  color:#b30059;
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
+.p02{
+  color:#b30059;
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
+.p03{
+  color:#b30059;
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
+.p04{
+  color:#b30059;
+  width:200px;
+  height: 200px;
+  background-color: #cc99ff;
+  float: right;
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 80px;
+transition: background-color 0.3s ease-in 0.2s;
+}
+
+.circleves:hover{
+  background-color: red;
+}
